@@ -9,7 +9,8 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          rm README.md
+          mkdir build
+          cp index.html build/index.html
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
