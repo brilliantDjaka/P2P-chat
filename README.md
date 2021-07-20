@@ -6,5 +6,9 @@ just run index.html using browser like firefox
 
 <br>
 
+### Deployed to https://brilliantdjaka.github.io/P2P-chat/, try it
+<br>
+
+
 ### Note : this is just prototype app with plain html
 
